@@ -1,0 +1,42 @@
+{
+  "name": "httppoller",
+  "description": "Poller of HTTP GET",
+  "version": "0.0.1",
+  "homepage": "http://github.com/lmorchard/twas-httppoller/",
+  "author": "Les Orchard <me@lmorchard.com> (http://lmorchard.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lmorchard/twas-httppoller.git"
+  },
+  "main": "./lib/httppoller/index",
+  "scripts": {
+      "start": "./run.js",
+      "test": "./node_modules/.bin/nodeunit tests"
+  },
+  "bin": {
+      "httppoller": "./bin/httppoller"
+  },
+  "engines": {
+    "node": "0.6.x"
+  },
+  "directories": { 
+      "lib": "./lib"
+  },
+  "dependencies": {
+      "async": "*",
+      "express": "*",
+      "request": "*",
+      "dirty": "*",
+      "underscore": "*",
+      "backbone": "*",
+      "commander": "*",
+      "nconf": "*",
+      "winston": "*",
+      "opmlparser": "*"
+  },
+  "devDependencies": {
+      "nodeunit": "0.6.4",
+      "jshint": "0.5.7",
+      "docco": "0.3.0"
+  }
+}

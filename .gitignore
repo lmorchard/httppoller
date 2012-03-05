@@ -1,0 +1,9 @@
+*.sw*
+*.pyc
+xfers/*
+tmp/*
+output/*
+data/*
+logs/*
+docs/*
+node_modules/*

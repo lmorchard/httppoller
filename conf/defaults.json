@@ -1,0 +1,8 @@
+{
+    "storage": {
+        "driver": "DirtySync",
+        "options": {
+            "db_name": "data/app.db"
+        }
+    }
+}
