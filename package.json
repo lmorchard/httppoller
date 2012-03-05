@@ -2,11 +2,11 @@
   "name": "httppoller",
   "description": "Poller of HTTP GET",
   "version": "0.0.1",
-  "homepage": "http://github.com/lmorchard/twas-httppoller/",
+  "homepage": "http://github.com/lmorchard/httppoller/",
   "author": "Les Orchard <me@lmorchard.com> (http://lmorchard.com/)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lmorchard/twas-httppoller.git"
+    "url": "git://github.com/lmorchard/httppoller.git"
   },
   "main": "./lib/httppoller/index",
   "scripts": {

@@ -1,4 +1,4 @@
-# twas-httppoller
+# httppoller
 
 This is a thing that polls HTTP resources with GET
 
