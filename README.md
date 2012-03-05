@@ -11,7 +11,7 @@ This is a thing that polls HTTP resources with GET
 ## Development
 
 * To run the service:
-    * `node run.js`
+    * `./bin/httppoller`
 * To run tests:
     * `./node_modules/.bin/nodeunit tests`
 * To check code quality:

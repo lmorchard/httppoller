@@ -27,6 +27,8 @@
       "express": "*",
       "request": "*",
       "dirty": "*",
+      "bufferjs": "*",
+      "node-uuid": "*",
       "underscore": "*",
       "backbone": "*",
       "commander": "*",
